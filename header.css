@@ -1,0 +1,8 @@
+.cabecalho_menu
+ width: 24px
+ height: 24px
+ backgroud image: (.img_menu)
+ display: inline-block 
+
+ .cabecalho
+ backgroud color: var (branco)
